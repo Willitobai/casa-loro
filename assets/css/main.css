@@ -1,14 +1,4 @@
-/* 
-
-Foxebiz - Multipurpose html template
-Copyright 2019  www.mutationmedia.net 
-Created by : mutationthemes  
-
-*/
-
-/* Table of Content ================================================== 
-
-1.Preloader
+/* 1.Preloader
 2.Site wrapper
 3.About
 4.Reservation
@@ -17,7 +7,7 @@ Created by : mutationthemes
 7.Blog
 8.Footer
 9.Miscellaneous
-10.Mediaqueries
+10.Mediaqueries */
 
 
 /*Preloader*/
@@ -310,88 +300,6 @@ div.gallery {
     display: table;
     clear: both;
   }
-
-/* *================== cheffss ================== */ 
-/* #cheffs{ }
-.cheffs_wrap_slider{ margin:0 -20px;}
-#cheffs-slider .item{ padding:0 20px; } 
-#cheffs-slider .item .cheffs_photo, #cheffs-slider .item .cheffs_info{ display:table-cell;}
-#cheffs-slider .item .cheffs_photo{ position:relative;}
-#cheffs-slider .item .cheffs_photo > img{ height:10%; }
-#cheffs-slider .item .cheffs_info{
-	padding-right:15px;
-    vertical-align:middle;
-    float: left;
-}
-#cheffs-slider .item .cheffs_info h2{
-  font-size: 60px;
-  font-weight: bold;
-  position: relative;
-  z-index: 11;
-  overflow: hidden;
-  float: left;
-  display: inline-block;
-}
-#cheffs-slider .item .cheffs_info h2:after{
-  background: #111111;
-  content: "";
-  display: inline-block;
-  height: 1px;
-  width: 100%;
-  position: absolute;
-  right: 0;
-  z-index: 5;
-  bottom: 9px;
-  left:70px;
-}
-#cheffs-slider .item .cheffs_info h3,
-.cheffs_wrap h3{
-	color:#e25111;
-    margin-top:10px;
-    float: left;
-    height: 10%;
-    display: inline-block;
-}
-#cheffs-slider .item .cheffs_info small,
-.cheffs_wrap small{
-	color:#796e6e;
-	font-size:14px;
-	margin-bottom:10px;
-    display:inline-block;
-    float: left;
-   
-}
-#cheffs-slider ul.social_icon{ margin-top:25px;}
-#cheffs-slider ul.social_icon li a{ background:#fff; }
-#cheffs-slider .owl-prev, #cheffs-slider .owl-next,
-#our-cheffs .owl-prev, #our-cheffs .owl-next,
-#news-slider .owl-prev,
-#news-slider .owl-next{
-  top: 50%;
-  background: #fff;
-  border-radius: 100%;
-  border: 1px solid #d9dddf;
-  line-height: 33px;
-  -moz-transform:translateY(-50%);
-  -webkit-transform:translateY(-50%);
-  -ms-transform:translateY(-50%);
-  transform:translateY(-50%);
-}
-#cheffs-slider .owl-prev,
-#our-cheffs .owl-prev, #news-slider .owl-prev{left:-60px;}
-#cheffs-slider .owl-next,
-#our-cheffs .owl-next, #news-slider .owl-next{right:-60px;}
-#cheffs-slider .owl-prev:hover, #cheffs-slider .owl-next:hover,
-#our-cheffs .owl-prev:hover, #our-cheffs .owl-next:hover,
-#news-slider .owl-prev:hover,
-#news-slider .owl-next:hover{
-	color:#fff;
-	background:#e25111;
-	border-color:#e25111;
-}
-.padding_left{ padding-left:15px; } */
-/*================== cheffs ends ================== */
-
 
 /* Specials*/
 
